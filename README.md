@@ -1,2 +1,2 @@
 # MinHeap-Msst-Mssp
-Implementación estructuras MinHeap, Msst y Mssp
+Implementación estructuras MinHeap, Mst (algoritmo de Kruskal y Prim) y Mssp
